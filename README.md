@@ -1,2 +1,2 @@
 # cep
-Formulário utilizando axios para fazer consulta por cep para uma api externa.
+Formulário utilizando biblioteca axios para fazer consulta por cep através da API postmon.
